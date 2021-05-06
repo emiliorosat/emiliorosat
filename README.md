@@ -1,7 +1,7 @@
 ## Hi there 👋 🇩🇴
 
 
-[![EmilioRosat's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emiliorosat&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![EmilioRosat's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emiliorosat&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

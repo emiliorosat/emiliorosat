@@ -1,9 +1,11 @@
-## Hi there 👋 🇩🇴
+## Hi there 👋
 
+**[More About Me](https://emiliort.com)**
 
-[![emiliorosat's github stats](https://github-readme-stats.vercel.app/api?username=emiliorosat&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+## Github's Stats
 
 [![emiliorosat's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emiliorosat&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![emiliorosat's github stats](https://github-readme-stats.vercel.app/api?username=emiliorosat&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

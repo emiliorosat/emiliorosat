@@ -3,6 +3,7 @@
 🌱 I’m currently learning Django and React Native
 
 📫 How to reach me:
+
 [![twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/emiliort)
 [![linkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emiliorosat/)
 

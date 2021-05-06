@@ -1,6 +1,13 @@
 ## Hi there 👋 🇩🇴
 
 
+[![EmilioRosat's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emiliorosat&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
 
 <!--
 **emiliorosat/emiliorosat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

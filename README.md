@@ -2,6 +2,8 @@
 
 **[More About Me](https://emiliort.com)**
 
+<img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+
 ## Github's Stats
 
 [![emiliorosat's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emiliorosat&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

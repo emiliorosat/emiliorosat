@@ -6,7 +6,7 @@
 
 [![twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/emiliort)
 [![linkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emiliorosat/)
-[ ![YouTube]("https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white")](https://www.youtube.com/channel/UCeQDXaNSOVaeAQEPNuUNbFQ)
+[![YouTube]("https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white")](https://www.youtube.com/channel/UCeQDXaNSOVaeAQEPNuUNbFQ)
 
 **[More About Me](https://emiliort.com)** 😄
 

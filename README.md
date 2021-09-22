@@ -61,7 +61,7 @@
 <img alt="Adobe XD" src="https://img.shields.io/badge/adobexd-%23FF26BE.svg?&style=for-the-badge&logo=adobexd&logoColor=white"/>
 
 <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<img alt="Linux" src="https://img.shields.io/badge/Linux-0078D6?style=for-the-badge&logo=linux&logoColor=white" />
+<img alt="Linux" src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
 
 
 ## Github's Stats

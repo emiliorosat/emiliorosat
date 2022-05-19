@@ -1,6 +1,5 @@
 # Hi there 👋
 
-🌱 I’m currently learning Django and React Native
 
 📫 How to reach me:
 

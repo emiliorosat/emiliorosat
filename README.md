@@ -59,10 +59,10 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?&style=for-the-badge&logo=firebase)
 ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?&style=for-the-badge&logo=githubactions&logoColor=white)
-![GitHub]("https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-0078D6.svg?&style=for-the-badge&logo=msazure&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/azure_devops-0078D6.svg?&style=for-the-badge&logo=azure&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/cloudflare-0078D6.svg?&style=for-the-badge&logo=cloudflare&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/cloudflare-%23E34F26.svg?&style=for-the-badge&logo=cloudflare&logoColor=white)
 
 
 ### Operative System

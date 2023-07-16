@@ -15,7 +15,7 @@
 
 ## Knowledges
 
-### I'm currently working with
+### 🔭 I’m currently working with
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -65,7 +65,7 @@
 ![Cloudflare](https://img.shields.io/badge/cloudflare-%23E34F26.svg?&style=for-the-badge&logo=cloudflare&logoColor=white)
 
 
-### Operative System
+### Operating Systems
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)

@@ -75,6 +75,7 @@
 
 
 
+![freeCodeCamp points](https://img.shields.io/freecodecamp/points/emiliort?style=flat-square&logo=freecodecamp&logoColor=%23ffffff&label=FreeCodeCamp&labelColor=%23ffffff&color=%230a0a23)
 
 
 
